@@ -32,5 +32,3 @@ Route::get('/profil/{id}', function(){
     return $id;
 });
 
-// Controller
-Route::get
