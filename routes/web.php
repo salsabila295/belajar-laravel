@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 // Closure
 Route::get('/profil', function(){
-    return "profil saya";
+    return "GET READY? SHOWTIME!";
 })->name('profil');
 
 // Route name
